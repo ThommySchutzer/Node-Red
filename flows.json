@@ -66,7 +66,7 @@
     {
         "id": "1106a09dfd863481",
         "type": "subflow",
-        "name": "Supabase",
+        "name": "Suppabase",
         "info": "This node lets your query from Supabase, allowing you to choose from a given Table, and filter accordingly.",
         "category": "",
         "in": [
@@ -3541,7 +3541,7 @@
         "id": "0a6cc5f5e549ea0d",
         "type": "subflow:1106a09dfd863481",
         "z": "b0599da38c7a14e3",
-        "name": "Locations in London",
+        "name": "London",
         "env": [
             {
                 "name": "Table",
@@ -3559,7 +3559,7 @@
                 "type": "str"
             }
         ],
-        "x": 330,
+        "x": 290,
         "y": 240,
         "wires": [
             [
