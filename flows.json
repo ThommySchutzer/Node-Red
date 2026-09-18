@@ -3579,7 +3579,7 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 600,
+        "x": 560,
         "y": 180,
         "wires": []
     }
